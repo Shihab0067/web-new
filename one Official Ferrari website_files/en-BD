@@ -1,0 +1,1184 @@
+
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+
+    
+        <!-- Google Tag Manager -->
+        <script type="text/javascript" src="/ruxitagentjs_ICA7NVfqrux_10327251022105625.js" data-dtconfig="rid=RID_885667702|rpid=-227572683|domain=ferrari.com|reportUrl=/rb_bf06635dnd|app=1b61021630676e31|cuc=5tbars0o|owasp=1|mel=100000|featureHash=ICA7NVfqrux|dpvc=1|lastModification=1766404261710|srsr=25000|tp=500,50,0|rdnt=1|uxrgce=1|srbbv=2|agentUri=/ruxitagentjs_ICA7NVfqrux_10327251022105625.js"></script><script defer type="text/javascript" src="/.rum/@adobe/helix-rum-js@%5E2/dist/rum-standalone.js"></script>
+<script>
+            (function(w, d, s, l, i) {
+                w[l] = w[l] || [];
+                w[l].push({
+                    'gtm.start': new Date().getTime(),
+                    event: 'gtm.js'
+                });
+                var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s),
+                    dl = l != 'dataLayer' ? '&l=' + l : '';
+                j.async = true;
+                j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+                f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-KLDD6J');
+        </script>
+        <!-- End Google Tag Manager -->
+    
+
+    <meta charset="UTF-8"/>
+    
+    
+        <title>Official Ferrari website </title>
+        <link rel="canonical" href="https://www.ferrari.com/en-EN"/>
+        <meta name="description" content="Ferrari - All the official contents of the Maranello based carmaker: all the cars in the range and the great historic cars, the official Ferrari dealers, the online store and the sports activities of a brand that has distinguished Italian excellence around the world since 1947"/>
+        <meta name="keywords" content="Official Ferrari Sites, Ferrari Sites, Ferrari Portals, Ferrari Brand, Brand, Enzo Ferrari, cars, sports, Scuderia Ferrari, Formula 1, Maranello, Prancing Horse, Prancing Horse"/>
+        <meta property="og:title" content="Official Ferrari website"/>
+        <meta property="og:type" content="website"/>
+        <meta property="og:description" content="All the official Ferrari brand content: dedicated websites for our cars, sporting activities and official products from the Store"/>
+        <meta property="og:url" content="https://www.ferrari.com/en-EN"/>
+
+        <meta property="og:image" content="https://ferrari.scene7.com/is/image/ferrari/672cc53db6f3320011b98384-share-card-generic-2"/>
+        <meta property="twitter:title" content="Official Ferrari website"/>
+        <meta property="twitter:description" content="All the official Ferrari brand content: dedicated websites for our cars, sporting activities and official products from the Store"/>
+        <meta property="twitter:image" content="https://ferrari.scene7.com/is/image/ferrari/672cc53db6f3320011b98384-share-card-generic-2"/>
+
+        <meta name="robots" content="index, follow"/>
+
+    
+
+    <meta name="template" content="page-gateway"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+    
+    
+
+
+
+
+
+
+
+    
+    
+    <link rel="stylesheet" href="/etc.clientlibs/ferrari-fcom/clientlibs/clientlib-base.lc-2bdfd63d55547c5b6983e0e72160e940-lc.min.css" type="text/css">
+
+
+
+
+
+
+
+<script>
+    const variables = {
+  "afterreading": "After reading",
+  "all_tags": "All",
+  "back": "Back",
+  "backtohomepage": "Back to Homepage",
+  "choosecountry": "Choose your country or region",
+  "close": "Close",
+  "continue": "Continue",
+  "cookie": "We use cookies to ensure that we give you the best experience on our website. Our website includes also third parties’ cookies. If you want to find out more about the cookies we use and how to disable them, you can access our \u003ca href\u003d\u0027https://www.ferrari.com/en-EN/cookie-policy\u0027 target\u003d\u0027_blank\u0027\u003eCookie Policy\u003c/a\u003e. By continuing your visit on the website, you consent to the use of the cookies.",
+  "country": "Country",
+  "cursor.discovermore": "Discover more",
+  "discovermore": "Discover more",
+  "cursor.playvideo": "Play video",
+  "cursor.showmore": "Show more",
+  "discoverstories": "Discover other stories",
+  "exploredetails": "explore details",
+  "filters": "Filters",
+  "legal.cookies.saved": "Cookie settings saved successfully",
+  "mediagallery.audio": "Audios",
+  "mediagallery.gallery": "Photos",
+  "mediagallery.images": "Photos",
+  "mediagallery.video": "Videos",
+  "news": "All the news",
+  "next": "Next",
+  "oops": "Oops!",
+  "page_error.404": "Page not found",
+  "previous": "Previous",
+  "readmore": "Read more",
+  "related_news": "Related News",
+  "results_for": "Results for",
+  "save": "Save",
+  "scroll": "scroll",
+  "search_no_results": "No results",
+  "send": "Submit",
+  "share": "Share",
+  "thankyou": "Thank you!",
+  "theprivacypolicy": "the privacy policy",
+  "tryagain": "Try again",
+  "viewallitems": "View all items",
+  "yourdata": "Your data",
+  "days": "Days",
+  "hours": "Hours",
+  "minutes": "Minutes",
+  "seconds": "Seconds",
+  "openings": "Opening hours",
+  "closings": "Closing",
+  "date.day": "day",
+  "date.days": "days",
+  "date.seconds": "sec",
+  "date.minutes": "min",
+  "date.hour": "hour",
+  "date.hours": "hours",
+  "date.year": "year",
+  "date.years": "years",
+  "cars.engine.v12": "12 cylinders",
+  "cars.engine.v8": "8 cylinders",
+  "cars.model": "Model",
+  "cars.interior": "Interiors",
+  "cars.exterior": "Exterior",
+  "loadmore": "Load More",
+  "clear": "Clear",
+  "reset_filters": "Reset Filters",
+  "page_error.500": "Page not found",
+  "driverdataalt.time_out_of": "{partial} time out of {total}",
+  "viewall": "View all",
+  "viewless": "View less",
+  "graphdata.open_duration_value": "13.5",
+  "graphdata.open_duration_label": "Time to open",
+  "graphdata.speed_limit_value": "60",
+  "graphdata.speed_limit_unit": "Km/h",
+  "graphdata.speed_limit_label": "Speed limit",
+  "forms.mandatory": "* Mandatory Fields",
+  "adobe_form.loading_error": "The service is not currently available. Please try again later.",
+  "gdpr.data_retention.privacy_agreement_privacy.title": "To the marketing activities of Ferrari S.p.A.",
+  "gdpr.data_retention.privacy_agreement_privacy.desc": "To receiving marketing communications about the Ferrari universe, as further detailed in the privacy policy. By clicking I DO NOT CONSENT you will no longer be kept up-to-date about our latest news, launches of new vehicle models and event invitations.",
+  "gdpr.data_retention.privacy_agreement_related_company.title": "To the marketing activities of Ferrari Group",
+  "gdpr.data_retention.privacy_agreement_related_company.desc": "to allow Ferrari S.p.A. to communicate my personal data to Ferrari Group companies for the marketing purposes referred to in point e) of the Notice.",
+  "gdpr.data_retention.privacy_agreement_analysis.title": "To profiling activities",
+  "gdpr.data_retention.privacy_agreement_analysis.desc": "To Ferrari using my personal information to enhance their services by tailoring them to my preferences. By clicking I DO NOT CONSENT your profile will no longer be monitored in order to send you information on special and limited  launches of new vehicle models and exclusive event invitations, for example.",
+  "gdpr.data_retention.privacy.store_but_no_consent_warning": "You must agree to the marketing activities to receive the selected newsletters.",
+  "gdpr.data_retention.submit": "Submit",
+  "gdpr.data_retention.quit_without_saving": "Exit without saving",
+  "gdpr.data_retention.preload": "Loading..",
+  "gdpr.data_retention.newsletter_section_label.code_races": "Endurance \u0026 Corse Clienti",
+  "gdpr.data_retention.title": "Newsletter and marketing communications",
+  "gdpr.data_retention.text": "On this page, you can check and amend your newsletter subscriptions and keep up-to-date with all news from the world of Ferrari. You can also manage your preferences related to the processing of your personal data, and keep up-to-date with initiatives and products from the Ferrari universe. Depending on the preferences you selected, please remember to save any amendments you made by clicking on the individual \"Save newsletter preferences\" and \"Save preferences\" buttons.",
+  "gdpr.data_retention.email_section.title": "Your email address:",
+  "gdpr.data_retention.submit_language": "Save your language preferences",
+  "gdpr.data_retention.submit_confirm": "Confirm",
+  "gdpr.data_retention.submit_newsletter": "Save your newsletter preferences",
+  "gdpr.data_retention.submit_privacy": "Save preferences",
+  "gdpr.data_retention.unsubscribe.title": "Cancel all subscriptions",
+  "gdpr.data_retention.unsubscribe.check": "If you wish to no longer receive newsletters and marketing communications from Ferrari, please select this option.",
+  "gdpr.data_retention.newsletter_section.text": "If you wish to no longer receive the Ferrari newsletters, please untick the options that are not relevant to you.",
+  "gdpr.data_retention.newsletter_section.subtext": "Please be aware that cancellation of the subscription to one or more newsletters will only become effective within the next 24 hours. During this period of time, you might still receive communications from Ferrari.",
+  "gdpr.data_retention.treatments_section.title": "Marketing communications",
+  "gdpr.data_retention.treatments_section.text": "If you wish to no longer receive marketing communications from Ferrari, please untick the relevant privacy consent.",
+  "gdpr.data_retention.treatments_section.main_link": "Please read the \u003ca href\u003d\"/en-EN/privacy-policy\" target\u003d\"_blank\"\u003eprivacy policy\u003c/a\u003e and update your preference",
+  "gdpr.data_retention.privacy_agreement_privacy_store.desc": "Please also indicate whether you would like to receive communications concerning exclusive products from the Ferrari Store",
+  "gdpr.data_retention.yes": "Yes",
+  "gdpr.data_retention.no": "No",
+  "gdpr.data_retention.treatments_section.text_final": "We would like to remind you that you can check and/or amend your preferences at any time. ",
+  "gdpr.data_retention.notify.consents": "CONSENT PREFERENCES SUCCESSFULLY SAVED",
+  "gdpr.data_retention.notify.newsletter": "NEWSLETTER PREFERENCES SUCCESSFULLY SAVED",
+  "gdpr.data_retention.notify.language": "LANGUAGE PREFERENCES SUCCESSFULLY SAVED",
+  "gdpr.data_retention.notify.unsubscribe": "CANCELLATION WAS SUCCESSFULLY",
+  "gdpr.newsletter_overlay.link_to_gdpr": "\u003ca href\u003d\"/gdpr/request\"\u003eManage your newsletters and GDPR consent\u003c/a\u003e",
+  "gdpr.request_token_form.title": "Manage your newsletters and GDPR consent",
+  "gdpr.request_token_form.subtitle": "Enter your email address to get reserved access to your data.",
+  "gdpr.request_token_form.email.label": "Email",
+  "gdpr.request_token_form.email.placeholder": "Email",
+  "gdpr.request_token_form.email.mandatory_field": "This field is required.",
+  "gdpr.request_token_form.email.invalid_field": "The field is not valid",
+  "gdpr.request_token_form.submit": "Submit",
+  "gdpr.request_token_form.response_title_ok": "Thank you!",
+  "gdpr.request_token_form.response_title_ko": "Oops!",
+  "gdpr.request_token_form.response_200": "Attention! \u003cbr/\u003eWe have already sent you an email which enables you to access the page where you can manage your permissions and opt in/out of the newsletter, please check your inbox! \u003cbr/\u003eIf you haven’t received the email, you can request it again by \u003ca href\u003d\"/gdpr/request\"\u003eclicking here\u003c/a\u003e.",
+  "gdpr.request_token_form.response_20x": "We have just sent you an email with your reserved access details.",
+  "gdpr.request_token_form.response_400": "Something went wrong",
+  "gdpr.request_token_form.response_404": "Something went wrong",
+  "gdpr.request_token_form.response_500": "Something went wrong",
+  "gdpr.request_token_form.response_back_button": "Back to Ferrari.com",
+  "gdpr.data_retention.newsletter_section.title": "Newsletter",
+  "gdpr.data_retention.newsletter_section_label.code_f1": "Formula 1",
+  "gdpr.data_retention.newsletter_section_label.code_gt": "Sports cars",
+  "gdpr.data_retention.newsletter_section_label.code_other": "Other",
+  "gdpr.data_retention.newsletter_section_label.code_owner": "Owners exclusive",
+  "gdpr.data_retention.newsletter_section_label.code_store": "Ferrari Store",
+  "gdpr.data_retention.newsletter_section_label.code_esports": "Esports",
+  "gdpr.data_retention.treatments_section.pre_title": "However, if you no longer wish to receive marketing communications from Ferrari S.p.A. and/or Ferrari Group companies, please deselect the corresponding GDPR consent option",
+  "gdpr.data_retention.agree": "I agree",
+  "gdpr.data_retention.disagree": "I disagree",
+  "gdpr.data_retention.token_expired_title": "This link is no longer valid.",
+  "gdpr.data_retention.token_expired_text": "To enable you to renew and/or view your GDPR consent preferences, we have just sent you a new email.",
+  "gdpr.data_retention.token_consumed_title": "This link is no longer valid.",
+  "gdpr.data_retention.token_consumed_text": "To allow you to renew and/or view your GDPR permissions, request a new link.\u003cbr/\u003e\u003ca href\u003d\"/gdpr/request\"\u003eClick here\u003c/a\u003e",
+  "gdpr.data_retention.token_invalid_title": "Oops!",
+  "gdpr.data_retention.token_invalid_text": "Something went wrong",
+  "gdpr.data_retention.token_generic_invalid_title": "Oops!",
+  "gdpr.data_retention.token_generic_invalid_text": "Something went wrong",
+  "gdpr.data_retention.back_to_site": "Back to Ferrari.com",
+  "gdpr.data_retention_typ.title_ok": "Thank you!",
+  "gdpr.data_retention_typ.title_ko": "Oops!",
+  "gdpr.data_retention_typ.text_ok": "Thanks, your preferences have been updated",
+  "gdpr.data_retention_typ.text_ko": "Something went wrong",
+  "gdpr.data_retention_typ.back_to_site": "Back to Ferrari.com",
+  "gdpr.data_retention.language.title": "Preferred language",
+  "gdpr.data_retention.language.text": "Select language",
+  "gdpr.data_retention.language.placeholder": "Language",
+  "gdpr.data_retention.language.note": "Please be advised that this selection may not apply to some communications, and as such, these will be sent in English.",
+  "newsletter.agree": "I agree",
+  "newsletter.choose": "Choose the newsletters you want to receive",
+  "newsletter.disagree": "I disagree",
+  "newsletter.marketingconsent": "You must agree to the marketing activities to receive the selected newsletters.",
+  "newsletter.message.error": "The service is not currently available. Please try again later.",
+  "newsletter.message.sent": "Your request has been sent.",
+  "newsletter.privacy1.desc": "To receiving marketing communications about the Ferrari universe, as further detailed in the privacy policy. By clicking I DO NOT CONSENT you will no longer be kept up-to-date about our latest news, launches of new vehicle models and event invitations.",
+  "newsletter.privacy1.title": "To the marketing activities of Ferrari S.p.A.",
+  "newsletter.privacy2.desc": "To Ferrari using my personal information to enhance their services by tailoring them to my preferences. By clicking I DO NOT CONSENT your profile will no longer be monitored in order to send you information on special and limited  launches of new vehicle models and exclusive event invitations, for example.",
+  "newsletter.privacy2.title": "To profiling activities",
+  "newsletter.privacy3.desc": "to allow Ferrari S.p.A. to communicate my personal data to Ferrari Group companies for the marketing purposes referred to in point e) of the Notice.",
+  "newsletter.privacy3.title": "To the marketing activities of Ferrari Group",
+  "newsletter.subscribe": "Subscribe",
+  "newsletter.title": "Subscribe to all Ferrari newsletters",
+  "newsletter.afterprivacytext": "After reading the \u003ca href\u003d\"https://www.ferrari.com/en-EN/privacy-policy/\" target\u003d\"_blank\"\u003eprivacy policy\u003c/a\u003e",
+  "enquire.afterPrivacyText": "After reading the \u003ca href\u003d\"https://www.ferrari.com/en-EN/privacy-policy/\" target\u003d\"_blank\"\u003eprivacy policy\u003c/a\u003e",
+  "enquire.brand": "Current Car Maker",
+  "enquire.loadingText": "Loading form data ...",
+  "enquire.message.dealer": "You will be contacted soon by a Ferrari dealer.",
+  "enquire.message.sent": "Your request has been sent successfully.",
+  "enquire.model": "Current Car Model",
+  "enquire.next": "Next vehicle purchase*",
+  "enquire.next_vehicle.1": "Within the next 6 months",
+  "enquire.next_vehicle.2": "Within a year",
+  "enquire.next_vehicle.3": "Maybe in the future",
+  "enquire.phone": "Phone",
+  "enquire.privacyText": "I have read and accept the \u003ca href\u003d\"https://www.ferrari.com/en-EN/legal#terms-conditions-code-conduct\" target\u003d\"_blank\"\u003eGeneral Terms and Conditions\u003c/a\u003e* and \u003ca href\u003d\"https://www.ferrari.com/en-EN/legal#code-conduct-registered-users\" target\u003d\"_blank\"\u003eCode of Conduct for Registered Users\u003c/a\u003e*.",
+  "enquire.title": "Enquire",
+  "newsletter.error.email_already_subscribed.message": "This email is already in our system,",
+  "newsletter.error.email_already_subscribed.cta.label": "Click here to manage subscription.",
+  "newsletter.error.email_already_subscribed.cta.href": "http://www.ferrari.com/en-EN/gdpr/request",
+  "newsletter.error.email_already_subscribed": "This email is already in our system, \u003ca href\u003d\"http://www.ferrari.com/en-EN/gdpr/request\"\u003eClick here to manage subscription.\u003c/a\u003e",
+  "newsletter.field.code_gt": "Sports cars",
+  "newsletter.field.code_f1": "Formula 1",
+  "newsletter.field.code_esports": "Esports",
+  "newsletter.field.code_races": "Endurance \u0026 Corse Clienti",
+  "newsletter.privacydisclaimer.text": "I have read the \u003ca href\u003d\"/en-EN/privacy-policy\" target\u003d\"_blank\"\u003ePrivacy Policy\u003c/a\u003e and confirm I want to receive marketing communications from Ferrari S.p.A. regarding the world of Ferrari, as described in the notice. If you select “I do not consent”, you will no longer be kept up-to-date about our latest news, launches of new vehicle models and event invitations.",
+  "newsletter.success.title": "Check your email",
+  "newsletter.success.text": "We’ve sent you a confirmation link to activate the subscription.",
+  "newsletter.privacydisclaimer.title": "Privacy and Marketing Consent",
+  "contacts.error.tryagain": "An error occured, try again later.",
+  "contacts.fields.email": "Email",
+  "contacts.fields.gender": "Gender",
+  "contacts.fields.gender.female": "Female",
+  "contacts.fields.gender.male": "Male",
+  "contacts.fields.message": "Your message",
+  "contacts.fields.name": "Name",
+  "contacts.fields.owner": "Are you a Ferrari owner?",
+  "contacts.fields.owner.own": "Owner",
+  "contacts.fields.owner.waitinglist": "Waiting list",
+  "contacts.fields.subject": "Subject",
+  "contacts.fields.surname": "Surname",
+  "contacts.message.sent": "Your request has been sent.",
+  "contacts.title": "Have a request?",
+  "museums.info_form.section1_title": "Form",
+  "museums.info_form.name": "First name",
+  "museums.info_form.surname": "Last name",
+  "museums.info_form.organization": "Company name",
+  "museums.info_form.address": "Address",
+  "museums.info_form.email": "Email",
+  "museums.info_form.phone": "Phone",
+  "museums.info_form.section2_title": "I would like info on",
+  "museums.info_form.note": "Note",
+  "museums.info_form.privacy": "Read and accepted the \u003ca href\u003d\"https://www.ferrari.com/en-EN/privacy-policy/\" target\u003d\"_blank\"\u003eprivacy policy\u003c/a\u003e",
+  "museums.info_form.submit": "Submit",
+  "museums.info_form.response_title_KO": "Something went wrong",
+  "museums.info_form.response_title_OK": "Your request has been sent.",
+  "museums.info_form.response_back_button": "Back to Ferrari.com",
+  "racecalendar.all_challenges": "All Categories",
+  "racecalendar.event": "Category",
+  "validation._default": "The field is not valid",
+  "validation.message.badchars": "The field contains unauthorized symbols.",
+  "validation.message.default": "The field is incorrect.",
+  "validation.message.email": "The field {attribute} must be a valid email",
+  "validation.message.max": "The field {attribute} is too long.",
+  "validation.message.min": "The filed {attribute} is too short.",
+  "validation.message.required": "The field {attribute} is required.",
+  "validation.message.generic_required": "The field is required.",
+  "validation.message.string": "The field {attribute} must contain only alphanumeric characters",
+  "validation.path.accept": "i agree",
+  "validation.path.brand": "current car maker",
+  "validation.path.country": "select country or region",
+  "validation.path.decline": "i do not agree",
+  "validation.path.email": "email",
+  "validation.path.gender": "gender",
+  "validation.path.marketing": "marketing",
+  "validation.path.message": "message",
+  "validation.path.model": "current car model",
+  "validation.path.name": "name",
+  "validation.path.firstName": "name",
+  "validation.path.next_vehicle": "next vehicle purchase",
+  "validation.path.owner": "owner",
+  "validation.path.privacy": "privacy",
+  "validation.path.privacy0": "privacy",
+  "validation.path.privacy1": "marketing",
+  "validation.path.privacy2": "profiling",
+  "validation.path.privacy3": "Ferrari group marketing",
+  "validation.path.selectedGuids": "newsletter type",
+  "validation.path.surname": "surname",
+  "validation.path.lastName": "surname",
+  "validation.path.user_contact_email": "email",
+  "validation.path.user_contact_phone": "phone",
+  "validation.path.user_first_name": "first name",
+  "validation.path.user_last_name": "last name",
+  "validation.path.birth_date": "birth date",
+  "ffs.compliance_form.anon_title": "I would like to:",
+  "ffs.compliance_form.anon": "Remain anonymous",
+  "ffs.compliance_form.with_data": "Enter my contact details",
+  "ffs.compliance_form.name": "First name",
+  "ffs.compliance_form.surname": "Last name",
+  "ffs.compliance_form.email": "Email",
+  "ffs.compliance_form.phone": "Phone",
+  "ffs.compliance_form.request_title": "Please explain the potential compliance infringement as detailed as possible in the text field below.",
+  "ffs.compliance_form.request": "Request",
+  "ffs.compliance_form.mandatory_field": "mandatory field",
+  "ffs.compliance_form.add_attachment": "Add attachments",
+  "ffs.compliance_form.submit": "Send",
+  "ffs.compliance_form.response_title_OK": "Your request has been sent.",
+  "ffs.compliance_form.response_back_button": "Back to Ferrari.com",
+  "ffs.compliance_form.response_title_KO": "Something went wrong",
+  "ffs.compliance_form.assets.error_400": "Invalid extension for file \u0027%s\u0027",
+  "ffs.compliance_form.assets.error_409": "File \u0027%s\u0027 already uploaded",
+  "ffs.compliance_form.assets.generic_error": "An error occurred while uploading \u0027%s\u0027",
+  "vin.captcha": "Captcha code",
+  "vin.code": "VIN",
+  "vin.message.sent": "Your request has been sent successfully",
+  "vin.model": "Model",
+  "vin.not_found": "Invalid VIN – please re-enter the 17-digit alphanumeric code that can be found on your vehicle registration document",
+  "vin.ok": "There are no open recalls on this VIN number.",
+  "vin.recall": "There is an open recall on this car.\u003cbr\u003e\u003ca href\u003d\"https://www.ferrari.com/en-EN/auto/dealers\"\u003econtact your nearest Authorised Ferrari Dealer to book an appointment\u003c/a\u003e or go to \u003ca href\u003d\"https://login.ferrari.com/account/login\"\u003eMyFerrari\u003c/a\u003e.",
+  "vin.search": "Search",
+  "searchengine.title": "Search",
+  "searchengine.input.placeholder.desktop": "Type here your search",
+  "searchengine.input.placeholder.mobile": "Type here",
+  "searchengine.input.enter": "Enter",
+  "searchengine.input.clear": "Clear",
+  "searchengine.recap.results": "results found for",
+  "searchengine.recap.no_results": "No results were found for",
+  "searchengine.recap.try_again": "Try again using a different spelling or keywords.",
+  "searchengine.recap.searching": "Searching",
+  "searchengine.recap.error": "Sorry, an error occurred, try again.",
+  "searchengine.tabs.news": "News",
+  "searchengine.tabs.page": "Pages",
+  "searchengine.order.label": "Order by",
+  "searchengine.order.default": "Relevance",
+  "searchengine.order.asc": "Date - Oldest",
+  "searchengine.order.desc": "Date - Newest",
+  "searchengine.language.label": "Language",
+  "searchengine.language.default": "All",
+  "searchengine.language.en": "English",
+  "accessibility.turnonengine": "turn on engine",
+  "accessibility.turnoffengine": "turn off engine",
+  "accessibility.openclosemenu": "open or close menu",
+  "accessibility.discovermore": "discover more",
+  "accessibility.search": "search",
+  "accessibility.searchclose": "search close",
+  "accessibility.searchopen": "search open",
+  "accessibility.opensearchinput": "search input",
+  "accessibility.closepopup": "close popup",
+  "accessibility.openfooter": "open footer",
+  "accessibility.closefooter": "close footer",
+  "accessibility.backtotop": "back to the top",
+  "accessibility.selectyear": "select year",
+  "accessibility.openclosemenuracing": "open o close menu Racing",
+  "accessibility.openclosemenusportscars": "open o close menu Sports Cars",
+  "accessibility.openclosemenucollezioni": "open o close menu Collection",
+  "accessibility.openclosemenuexperiences": "open o close menu Experiences",
+  "accessibility.openclosemenuaboutus": "open o close menu About Us",
+  "accessibility.openclosemenufacebook": "open o close Facebook",
+  "accessibility.openclosemenuinstagram": "open o close Instagram",
+  "accessibility.openclosemenulinkedin": "open o close LinkedIn",
+  "accessibility.openclosemenutiktok": "open o close Tiktok",
+  "accessibility.openclosemenutwitch": "open o close Twitch",
+  "accessibility.openclosemenutwitter": "open o close Twitter",
+  "accessibility.openclosemenuyoutube": "open o close Youtube",
+  "accessibility.openfootermenu": "Open %% Menu",
+  "accessibility.closefootermenu": "Close %% Menu",
+  "accessibility.openmenu": "Open Menu",
+  "accessibility.closemenu": "Close Menu",
+  "accessibility.gotohomepage": "go to homepage",
+  "accessibility.gotosportscars": "go to Sports Cars",
+  "accessibility.gotoracing": "go to Racing",
+  "accessibility.gotocollections": "go to Collections",
+  "accessibility.gotoexperiences": "go to Experiences",
+  "accessibility.gotoaboutus": "go to About us",
+  "accessibility.gotofacebook": "go to Facebook",
+  "accessibility.gotoinstagram": "go to Instagram",
+  "accessibility.gotolinkedin": "go to Linkedin",
+  "accessibility.gototiktok": "go to Tik Tok",
+  "accessibility.gototwitch": "go to Twitch",
+  "accessibility.gototwitter": "go to Twitter",
+  "accessibility.gotoyoutube": "go to Youtube",
+  "accessibility.drivers_positionschart": "%vtot times %vpos° position",
+  "accessibility.drivers_positionschart_grid": "from starting grid",
+  "accessibility.drivers_positionschart_finish": "at finish line",
+  "accessibility.yearsearch": "Search by year",
+  "accessibility.yearsearchinfo": "The results will appear automatically",
+  "accessibility.formula1logo": "Ferrari racing logo",
+  "accessibility.tablist": "List of tabs buttons",
+  "accessibility.pagination.previous": "Previous page",
+  "accessibility.pagination.next": "next page",
+  "accessibility.pagination.gotopage": "Go to page",
+  "accessibility.menuback": "Go back",
+  "accessibility.openfilters": "Open Filters",
+  "accessibility.closefilters": "Close Filters",
+  "accessibility.openyearfilters": "Open Year Filters",
+  "accessibility.closeyearfilters": "Close Year Filters",
+  "accessibility.closediscovermore": "close discover more",
+  "accessibility.openshare": "Open share popup",
+  "accessibility.closeshare": "Close share popup",
+  "news.search_placeholder_label": "Search by keyword - ex. SF21",
+  "news.choose_keywords": "Choose one of these keywords",
+  "news.zero_match": "No Match",
+  "news.all_years": "All Years"
+};
+    const lang = document.documentElement.lang === 'zh' ? 'zh-CN' : document.documentElement.lang;
+    const labels = new Map();
+    labels.set(lang, variables);
+    console.log(labels);
+    window.__F_STRINGS_TRANSLATIONS__ = labels;
+</script>
+<script>
+    const pageVariables = [
+  {
+    "type": "bool",
+    "id": "topbar",
+    "items": {
+      "bool": false
+    },
+    "fcomUrlService": {
+      "runModesService": {
+        "runModes": [
+          "prod",
+          "publish"
+        ]
+      },
+      "siteAlias": "fcom",
+      "urlExtension": ""
+    }
+  }
+];
+</script>
+
+    
+    
+    
+
+    
+
+    
+    <script src="/etc.clientlibs/ferrari-fcom/clientlibs/clientlib-dependencies.lc-d41d8cd98f00b204e9800998ecf8427e-lc.min.js"></script>
+
+
+    
+    <link rel="stylesheet" href="/etc.clientlibs/ferrari-fcom/clientlibs/clientlib-dependencies.lc-d41d8cd98f00b204e9800998ecf8427e-lc.min.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/ferrari-fcom/clientlibs/clientlib-site.lc-0d5d68f7d46a61ef4ac77d3d5b9007be-lc.min.css" type="text/css">
+
+
+    
+    
+    <script async src="/etc.clientlibs/core/wcm/components/commons/datalayer/v2/clientlibs/core.wcm.components.commons.datalayer.v2.lc-1e0136bad0acfb78be509234578e44f9-lc.min.js"></script>
+
+
+    
+    <script async src="/etc.clientlibs/core/wcm/components/commons/datalayer/acdl/core.wcm.components.commons.datalayer.acdl.lc-bf921af342fd2c40139671dbf0920a1f-lc.min.js"></script>
+
+
+
+    
+    
+</head>
+    <body class="page-gateway page-header-super-channel page basicpage" id="page-gateway-b49510f1b1" data-cmp-link-accessibility-enabled data-cmp-link-accessibility-text="opens in a new tab" data-cmp-data-layer-enabled data-cmp-data-layer-name="adobeDataLayer">
+        <script>
+          var dataLayerName = 'adobeDataLayer' || 'adobeDataLayer';
+          window[dataLayerName] = window[dataLayerName] || [];
+          window[dataLayerName].push({
+              page: JSON.parse("{\x22page\u002Dgateway\u002Db49510f1b1\x22:{\x22@type\x22:\x22ferrari\u002Dfcom\/components\/page\/page\u002Dgateway\x22,\x22repo:modifyDate\x22:\x222025\u002D12\u002D10T16:23:00Z\x22,\x22dc:title\x22:\x22Official Ferrari website\x22,\x22xdm:template\x22:\x22\/conf\/ferrari\u002Dfcom\/settings\/wcm\/templates\/page\u002Dgateway\x22,\x22xdm:language\x22:\x22en\x22,\x22xdm:tags\x22:[],\x22repo:path\x22:\x22\/content\/ferrari\u002Dfcom\/en\/gateway\/pages\/official\u002Dferrari\u002Dwebsite\u002Dnew.html\x22}}"),
+              event:'cmp:show',
+              eventInfo: {
+                  path: 'page.page\u002Dgateway\u002Db49510f1b1'
+              }
+          });
+        </script>
+        
+        
+            
+
+
+
+
+            
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KLDD6J" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+
+<div id="superheader"></div>
+<style>
+    h5.errorInherit {
+        padding:0px;
+        margin:0px;
+        color:red;
+    }
+</style>
+<main style="background-color: white">
+
+    
+
+
+
+
+<div id="hiddenPageProperties"></div>
+
+    
+
+
+
+
+
+
+    <div>
+
+    
+    <div id="container-e87e6f6395" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="container responsivegrid aem-GridColumn aem-GridColumn--default--12">
+
+    
+    <div id="container-6b643fa316" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="fcom-cover-carousel-gw fcom-cover-carousel fcom-master aem-GridColumn aem-GridColumn--default--12">
+    
+
+
+
+<div class="f-cover-carousel-story-container">
+    <f-cover-carousel class="authorEditMode xfHidden" show-scroll-indicator="false">
+        
+
+
+
+
+    <f-cover cta-1-label="Discover the Ferrari Line Up" cta-1-href="https://www.ferrari.com/en-EN/auto/car-range?from=GWvideo" cta-1-target="_self">
+        <h3 slot="pretitle">
+            Sports Cars
+        </h3>
+        <h1 slot="title">
+            START YOUR ENGINE
+        </h1>
+        
+        
+            
+
+    
+        
+        <!-- gestione campi senza slot -->
+        
+
+
+        
+            
+            <f-aem-smart-crop-video-viewer slot="video-landscape" fit="cover" mode="background" id="video-player" asset="ferrari/6628b794-2db2-4c91-9228-7cc0acc63687" originalUrlLand="https://ferrari.scene7.com/is/content/ferrari/6628b794-2db2-4c91-9228-7cc0acc63687" originalUrlPort="https://ferrari.scene7.com/is/content/ferrari/3bdb2bca-9d26-4ed8-8fd6-04db0982561c">
+            </f-aem-smart-crop-video-viewer>
+        
+    
+
+    
+
+            
+
+    
+        
+        <!-- gestione campi senza slot -->
+        
+
+
+        
+            
+            <f-aem-smart-crop-video-viewer slot="video-portrait" fit="cover" mode="background" id="video-player" asset="ferrari/3bdb2bca-9d26-4ed8-8fd6-04db0982561c" originalUrlLand="https://ferrari.scene7.com/is/content/ferrari/6628b794-2db2-4c91-9228-7cc0acc63687" originalUrlPort="https://ferrari.scene7.com/is/content/ferrari/3bdb2bca-9d26-4ed8-8fd6-04db0982561c">
+            </f-aem-smart-crop-video-viewer>
+        
+    
+
+    
+
+        
+    </f-cover>
+
+
+
+
+
+
+
+
+
+    <f-cover cta-1-label="Discover" cta-1-href="https://www.ferrari.com/en-EN/formula1" cta-1-target="_self">
+        <h3 slot="pretitle">
+            Racing
+        </h3>
+        <h1 slot="title">
+            Scuderia Ferrari
+        </h1>
+        
+        
+            
+
+    
+        
+        <!-- gestione campi senza slot -->
+        
+
+
+        
+            
+            <f-aem-smart-crop-video-viewer slot="video-landscape" fit="cover" mode="background" id="video-player" asset="ferrari/576b2881-2f17-41b2-b35e-bef33f19b537" originalUrlLand="https://ferrari.scene7.com/is/content/ferrari/576b2881-2f17-41b2-b35e-bef33f19b537" originalUrlPort="https://ferrari.scene7.com/is/content/ferrari/96e87d74-f6d8-4f7d-ab16-9f4aecb3207e">
+            </f-aem-smart-crop-video-viewer>
+        
+    
+
+    
+
+            
+
+    
+        
+        <!-- gestione campi senza slot -->
+        
+
+
+        
+            
+            <f-aem-smart-crop-video-viewer slot="video-portrait" fit="cover" mode="background" id="video-player" asset="ferrari/96e87d74-f6d8-4f7d-ab16-9f4aecb3207e" originalUrlLand="https://ferrari.scene7.com/is/content/ferrari/576b2881-2f17-41b2-b35e-bef33f19b537" originalUrlPort="https://ferrari.scene7.com/is/content/ferrari/96e87d74-f6d8-4f7d-ab16-9f4aecb3207e">
+            </f-aem-smart-crop-video-viewer>
+        
+    
+
+    
+
+        
+    </f-cover>
+
+
+
+
+
+
+
+
+
+    <f-cover cta-1-label="Discover" cta-1-href="https://store.ferrari.com/ferrari-gift-guide?from=GW_overview" cta-1-target="_blank">
+        <h3 slot="pretitle">
+            Collections
+        </h3>
+        <h1 slot="title">
+            2025 HOLIDAY CAMPAIGN
+        </h1>
+        
+        
+            
+
+    
+        
+        <!-- gestione campi senza slot -->
+        
+
+
+        
+            
+            <f-aem-smart-crop-video-viewer slot="video-landscape" fit="cover" mode="background" id="video-player" asset="ferrari/99fc4b35-3d73-49b9-bb6b-85b6b2f4d182" originalUrlLand="https://ferrari.scene7.com/is/content/ferrari/99fc4b35-3d73-49b9-bb6b-85b6b2f4d182" originalUrlPort="https://ferrari.scene7.com/is/content/ferrari/5254b92f-3b2e-484e-b28a-158faf911df5">
+            </f-aem-smart-crop-video-viewer>
+        
+    
+
+    
+
+            
+
+    
+        
+        <!-- gestione campi senza slot -->
+        
+
+
+        
+            
+            <f-aem-smart-crop-video-viewer slot="video-portrait" fit="cover" mode="background" id="video-player" asset="ferrari/5254b92f-3b2e-484e-b28a-158faf911df5" originalUrlLand="https://ferrari.scene7.com/is/content/ferrari/99fc4b35-3d73-49b9-bb6b-85b6b2f4d182" originalUrlPort="https://ferrari.scene7.com/is/content/ferrari/5254b92f-3b2e-484e-b28a-158faf911df5">
+            </f-aem-smart-crop-video-viewer>
+        
+    
+
+    
+
+        
+    </f-cover>
+
+
+
+
+
+    </f-cover-carousel>
+</div>
+
+
+
+</div>
+<div class="fcom-carousel-editorial-gw fcom-carousel-editorial fcom-master aem-GridColumn aem-GridColumn--default--12">
+    
+
+
+
+<f-carousel-editorial cta-text="View all news" cta-href="news" cta-target="_self">
+    
+
+
+
+
+
+
+
+    <f-carousel-editorial-item main-title="Scuderia Ferrari HP closes the 2025 season with 270 laps" text="Today, all teams took part in the one and only day of post-season testing at the Yas Marina circuit." template="image-right" cta-text="Read more" cta-href="https://www.ferrari.com/en-EN/formula1/articles/scuderia-ferrari-abu-dhabi-test-2025" cta-target="_self">
+        
+
+    
+        
+            <f-aem-dynamic-media-image slot="image" resize-id="carousel-editorial-item" landscape-src="https://ferrari.scene7.com/is/image/ferrari/69385ae207923e0021806095-2025-scuderia-ferrari-abu-dhabi-test-gtw1" portrait-src="https://ferrari.scene7.com/is/image/ferrari/69385ae3cc7c6a00207dc083-2025-scuderia-ferrari-abu-dhabi-test-gtw2">
+            </f-aem-dynamic-media-image>
+            
+        
+        <!-- gestione campi senza slot -->
+        
+
+
+        
+    
+
+    
+
+    </f-carousel-editorial-item>
+
+
+
+
+
+
+
+
+
+
+
+    <f-carousel-editorial-item main-title="M-TECH   ALFREDO   FERRARI:   AN   EDUCATIONAL   HUB   FOR   THE   INNOVATORS   OF   TOMORROW" text="A new challenge reinforces and renews Ferrari’s historic commitment to the area of education: the M-TECH Alfredo Ferrari educational hub, which will be completed in 2029, with the aim of inspiring and training future generations of technology and automotive innovators." template="image-right" cta-text="Read more" cta-href="https://www.ferrari.com/en-EN/articles/m-tech-alfredo-ferrari-an-educational-hub-for-the-innovators-of-tomorrow" cta-target="_self">
+        
+
+    
+        
+            <f-aem-dynamic-media-image slot="image" resize-id="carousel-editorial-item" landscape-src="https://ferrari.scene7.com/is/image/ferrari/691dd0eed07bd700216278ef-m-tech-alfredo-ferrari-gtw1" portrait-src="https://ferrari.scene7.com/is/image/ferrari/691dd0f00ae6440020b01471-m-tech-alfredo-ferrari-gtw2">
+            </f-aem-dynamic-media-image>
+            
+        
+        <!-- gestione campi senza slot -->
+        
+
+
+        
+    
+
+    
+
+    </f-carousel-editorial-item>
+
+
+
+
+
+
+
+
+
+
+
+    <f-carousel-editorial-item main-title="A star is born" text="First Michelin Star for Cavallino – one of Italy’s top restaurants" template="image-right" cta-text="Read more" cta-href="https://www.ferrari.com/en-EN/magazine/articles/cavallino-restaurant-earns-michelin-star" cta-target="_self">
+        
+
+    
+        
+            <f-aem-dynamic-media-image slot="image" resize-id="carousel-editorial-item" landscape-src="https://ferrari.scene7.com/is/image/ferrari/691dc81bf83c860022feba64-rullo1-stella-ristorante-cavallino" portrait-src="https://ferrari.scene7.com/is/image/ferrari/691dc81ceccc040021761a85-rullo2-stella-ristorante-cavallino">
+            </f-aem-dynamic-media-image>
+            
+        
+        <!-- gestione campi senza slot -->
+        
+
+
+        
+    
+
+    
+
+    </f-carousel-editorial-item>
+
+
+
+
+
+
+
+
+
+
+
+    <f-carousel-editorial-item main-title="Ferrari   crowned   world   champions:   Manufacturers’   and   Drivers’   titles   clinched   in   FIA   WEC   2025" text="Thanks to the extraordinary result at the 8 Hours of Bahrain, the last race of the season, Ferrari has taken the Manufacturers’ title in the 2025 FIA World Endurance Championship, 53 years after its last world title." template="image-right" cta-text="Read more" cta-href="https://www.ferrari.com/en-EN/hypercar/articles/lmh-8h-bahrain-2025-end-race" cta-target="_self">
+        
+
+    
+        
+            <f-aem-dynamic-media-image slot="image" resize-id="carousel-editorial-item" landscape-src="https://ferrari.scene7.com/is/image/ferrari/690f5be4943ff40021f9c86e" portrait-src="https://ferrari.scene7.com/is/image/ferrari/690f5be331653b0020f5139a">
+            </f-aem-dynamic-media-image>
+            
+        
+        <!-- gestione campi senza slot -->
+        
+
+
+        
+    
+
+    
+
+    </f-carousel-editorial-item>
+
+
+
+
+</f-carousel-editorial>
+
+
+
+</div>
+<div class="fcom-split-banner-gw fcom-split-banner fcom-master-focuson fcom-master aem-GridColumn aem-GridColumn--default--12">
+
+
+    
+
+
+
+    <f-editorial-split-banner theme="dark" chapter-nav="false">
+        <f-editorial-split-banner-item template="double-image" pretitle="Collections" theme="dark" maintitle="Gift Guide" cta-text="Discover" cta-target="_self" cta-url="https://store.ferrari.com/ferrari-gift-guide?from=GWpost_STORE" mobile-text-expanded="false" overlay="false">
+            
+
+    
+        
+            <f-aem-dynamic-media-image slot="image" resize-id="editorial-split-banner" landscape-src="https://ferrari.scene7.com/is/image/ferrari/690875281526160020226b79-ferrari-store-gift-guide-2025-gate-desk" portrait-src="https://ferrari.scene7.com/is/image/ferrari/69087529b4bae200224b10d9-ferrari-store-gift-guide-2025-gate-mob">
+            </f-aem-dynamic-media-image>
+            
+        
+        <!-- gestione campi senza slot -->
+        
+
+
+        
+    
+
+    
+
+        </f-editorial-split-banner-item>
+        <f-editorial-split-banner-item theme="dark" template="double-image" pretitle="Magazine" maintitle="A &#39;Tailor Made&#39; Friendship" cta-text="Discover" cta-target="_self" cta-url="https://www.ferrari.com/en-EN/magazine/articles/friends-order-tailor-made-daytona-sp3s" mobile-text-expanded="false" overlay="false">
+            
+
+    
+        
+            <f-aem-dynamic-media-image slot="image" resize-id="editorial-split-banner" landscape-src="https://ferrari.scene7.com/is/image/ferrari/ferrari-daytona-sp3-seattle-magazine-desk" portrait-src="https://ferrari.scene7.com/is/image/ferrari/ferrari-daytona-sp3-seattle-magazine-mob">
+            </f-aem-dynamic-media-image>
+            
+        
+        <!-- gestione campi senza slot -->
+        
+
+
+        
+    
+
+    
+
+        </f-editorial-split-banner-item>
+        
+            
+        
+    </f-editorial-split-banner>
+
+
+
+
+
+</div>
+<div class="fcom-split-banner-gw fcom-split-banner fcom-master-focuson fcom-master aem-GridColumn aem-GridColumn--default--12">
+
+
+    
+
+
+
+    <f-editorial-split-banner theme="dark">
+        <f-editorial-split-banner-item template="double-image" pretitle="Ferrari Museums" theme="dark" maintitle="Supercars" cta-text="Discover" cta-target="Discover" cta-url="https://www.ferrari.com/en-EN/museums/supercars?from=GWpost_MUSEUMS" overlay="false">
+            
+
+    
+        
+            <f-aem-dynamic-media-image slot="image" resize-id="editorial-split-banner" landscape-src="https://ferrari.scene7.com/is/image/ferrari/67b479ea8e935a0056834fe4-2025-ferrari-museum-supercars-gtw1-last" portrait-src="https://ferrari.scene7.com/is/image/ferrari/67b47232a680f800114aba3f-2025-ferrari-museum-supercars-gtw2-v2">
+            </f-aem-dynamic-media-image>
+            
+        
+        <!-- gestione campi senza slot -->
+        
+
+
+        
+    
+
+    
+
+        </f-editorial-split-banner-item>
+        <f-editorial-split-banner-item theme="dark" template="double-image" pretitle="Corporate" maintitle="2026 HALF MARATHON OF ITALY" cta-text="Discover" cta-target="Discover" cta-url="https://www.ferrari.com/en-EN/corporate/sustainability-local-initiatives-half-marathon-of-italy-2026?from=GWpost_HALF-MARATHON" overlay="false">
+            
+
+    
+        
+            <f-aem-dynamic-media-image slot="image" resize-id="editorial-split-banner" landscape-src="https://ferrari.scene7.com/is/image/ferrari/6903789d5935e90021472e0d-ferrari-mezza-maratona-2026-gate-desk" portrait-src="https://ferrari.scene7.com/is/image/ferrari/69037986706c6f0020389d5c-ferrari-mezza-maratona-2026-gate-mob-2">
+            </f-aem-dynamic-media-image>
+            
+        
+        <!-- gestione campi senza slot -->
+        
+
+
+        
+    
+
+    
+
+        </f-editorial-split-banner-item>
+        
+            
+        
+    </f-editorial-split-banner>
+
+
+
+
+
+</div>
+<div class="fcom-split-banner-gw fcom-split-banner fcom-master-focuson fcom-master aem-GridColumn aem-GridColumn--default--12">
+
+
+    
+
+
+
+    <f-editorial-split-banner theme="dark">
+        <f-editorial-split-banner-item template="double-image" pretitle="Ferrari Approved" theme="dark" maintitle="PRE-OWNED" cta-text="Discover" cta-target="Discover" cta-url="https://preowned.ferrari.com/en-EN?from=GWpost_APPROVED" overlay="false">
+            
+
+    
+        
+            <f-aem-dynamic-media-image slot="image" resize-id="editorial-split-banner" landscape-src="https://ferrari.scene7.com/is/image/ferrari/65e085b11804e5015f6628a1-ferrari-auto-pre-owned-immagine-land" portrait-src="https://ferrari.scene7.com/is/image/ferrari/65e085bebafa3301608a8175-ferrari-auto-pre-owned-immagine-port">
+            </f-aem-dynamic-media-image>
+            
+        
+        <!-- gestione campi senza slot -->
+        
+
+
+        
+    
+
+    
+
+        </f-editorial-split-banner-item>
+        <f-editorial-split-banner-item theme="dark" template="double-image" pretitle="Sports Cars" maintitle="PAST MODELS" cta-text="Discover" cta-target="Discover" cta-url="https://www.ferrari.com/en-EN/auto/past-model?from=GWpost_PAST-MODELS" overlay="false">
+            
+
+    
+        
+            <f-aem-dynamic-media-image slot="image" resize-id="editorial-split-banner" landscape-src="https://ferrari.scene7.com/is/image/ferrari/67bee6a38e935a00568351bf-ferrari-125-s-gate-past-model-launch-desk-2" portrait-src="https://ferrari.scene7.com/is/image/ferrari/67bee6a2a680f800114abc15-ferrari-125-s-gate-past-model-launch-mob-2">
+            </f-aem-dynamic-media-image>
+            
+        
+        <!-- gestione campi senza slot -->
+        
+
+
+        
+    
+
+    
+
+        </f-editorial-split-banner-item>
+        
+            
+        
+    </f-editorial-split-banner>
+
+
+
+
+
+</div>
+<div class="fcom-xf-component experiencefragment aem-GridColumn aem-GridColumn--default--12">
+<div id="fcom-xf-component-eb114ebe56" class="cmp-experiencefragment cmp-experiencefragment--newsletter-form-banner">
+
+    
+    <div id="container-81e9af68ae" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="fcom-newsletter-form-banner-bn fcom-newsletter-form-banner fcom-master aem-GridColumn aem-GridColumn--default--12">
+    
+    <script src="/etc.clientlibs/ferrari-fcom/clientlibs/clientlib-newsletter.lc-6a9816b5059161a954b34e2857a82d9b-lc.min.js"></script>
+
+
+
+
+
+    
+
+
+
+    
+    
+        <f-newsletter-form-banner id="newsletterFormBanner" cta-label="SUBSCRIBE" theme="light">
+            <p>Stay up to date with the latest news from the world of Ferrari.</p>
+
+        </f-newsletter-form-banner>
+    
+
+
+<f-popup-newsletter-form id="popupNewsletterForm" marketing-activities-link-url="https://www.ferrari.com/en-EN/privacy-policy" manage-newsletters-consent-link-url="https://www.ferrari.com/it-IT/gdpr/request" guids="" labels='{&quot;subscribe_newsletter_title&quot;:&quot;Subscribe to the Ferrari Newsletter&quot;,&quot;subscribe_newsletter_subtitle&quot;:&quot;Your data&quot;,&quot;newsletters_list_title&quot;:&quot;Select the newsletters you want to receive&quot;,&quot;privacy_consent_title&quot;:&quot;Privacy and Marketing Consent&quot;,&quot;privacy_consent_subtitle&quot;:&quot;I have read the Privacy Policy and confirm I want to receive marketing communications from Ferrari S.p.A. regarding the world of Ferrari, as described in the notice. If you select “I do not consent”, you will no longer be kept up-to-date about our latest news, launches of new vehicle models and event invitations.&quot;,&quot;marketing_activities_link_text&quot;:&quot;To the marketing activities of Ferrari S.p.A.&quot;,&quot;manage_newsletters_consent_link_text&quot;:&quot;Manage your newsletters and GDPR consent&quot;,&quot;submitted_title&quot;:&quot;Check your email&quot;,&quot;submitted_subtitle&quot;:&quot;We sent you an email to confirm your subscription&quot;,&quot;submitted_resend_text&quot;:&quot;If you didn’t receive the email, please check your spam folder or click the button below to resend the confirmation link&quot;}' recaptcha-site-key="">
+    <f-captcha slot="captcha" site-key="6LemS8EUAAAAAABwYrkkTy6PFnL0MZAyaXU-oQ2f"></f-captcha>
+</f-popup-newsletter-form>
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+
+
+<script>
+    console.log("xfpage - content.html");
+</script>
+</div>
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+</main>
+<script>
+    console.log("header super channel main.html");
+</script>
+
+<div id="superfooter"></div>
+
+
+
+    <script>window.iframeResizeLicenseKey = '12ajjdewwwy-26rnhw2943-1s7g1u8ma0i'</script>
+    
+        
+    <script src="/etc.clientlibs/ferrari-fcom/clientlibs/clientlib-js-init-page.lc-5072563c46875c4e5782c377dec25648-lc.min.js"></script>
+
+
+    
+    
+    <script async src="https://static.apps.ferrarinetwork.ferrari.com/autoloader/v1/static/js/ferrari-autoloader.js"></script>
+
+    
+
+
+
+
+
+
+
+
+            
+    
+    <script src="/etc.clientlibs/ferrari-fcom/clientlibs/clientlib-site.lc-c8a6ef957e1fa1c18031feacd8a0d8fc-lc.min.js"></script>
+
+
+    
+
+
+    
+    <script src="/etc.clientlibs/ferrari-fcom/clientlibs/clientlib-base.lc-0657b1e020d1414aeaefc26f27ba92ea-lc.min.js"></script>
+
+
+
+
+
+
+
+    <f-page-controller></f-page-controller>
+<f-splash-screen id="splashScreen" visible="true"> </f-splash-screen>
+
+    <f-popup-adobe-form> </f-popup-adobe-form>
+
+    
+        
+    <script src="/etc.clientlibs/ferrari-fcom/clientlibs/clientlib-footer-page.lc-ecde797c644e85d38dc7d4adc1cb8215-lc.min.js"></script>
+
+
+    
+
+
+
+    
+
+    
+
+    
+    
+
+        
+    </body>
+</html>
